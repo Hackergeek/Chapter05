@@ -3,7 +3,7 @@ package com.sample.startup.gc;
 
 import android.annotation.SuppressLint;
 import android.os.SystemClock;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.util.Log;
 
 import java.io.File;

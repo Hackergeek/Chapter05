@@ -5,7 +5,7 @@ import java.io.Closeable;
 import java.io.IOException;
 import java.io.RandomAccessFile;
 
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 
 public class SystemInfo {
     private static final String TAG = "SystemInfo";
